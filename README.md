@@ -25,21 +25,13 @@
 # 👩‍💻 About Me
 
 ```yaml
-Name: Guriya Kumari
-Education: B.Tech Student
-Role: Frontend Developer
-Currently Learning:
-  - DSA in Java
-  - Cloud Computing
-Interests:
-  - Web Development
-  - Problem Solving
-  - Open Source
-Achievements:
-  - Hack India 2025 Participant
-  - JavaScript Bootcamp
-  - Node.js Bootcamp
-  - Master Git & GitHub
+- 🎓 B.Tech Student at Rungta College
+- 💻 Frontend Developer passionate about building modern web applications
+- 🌱 Currently learning **DSA in Java** and **Cloud Computing**
+- 🚀 Participant at **Hack India 2025**
+- 📚 Completed Bootcamps in JavaScript, Node.js, Git & GitHub
+- 🎯 Focused on improving problem-solving and development skills
+
 ```
 
 ---
@@ -79,7 +71,6 @@ Achievements:
 - ✅ Git & GitHub Masterclass
 - ✅ Canva Bootcamp
 - ✅ Microsoft Learn Certifications
-- ✅ Hack India 2025 Participant
 
 ---
 
@@ -93,6 +84,9 @@ Modern employee management system with CRUD operations and clean UI.
 
 ## 🔹 AI Study Buddy
 An AI-powered personalized learning assistant designed for students.
+
+## 🔹 Resume Analyzer
+AI-powered Resume Analyzer that evaluates resumes, suggests improvements, and helps users optimize resumes for better job opportunities.
 
 ---
 
